@@ -1,8 +1,10 @@
+package com.pranav;
+
 public class Main {
 
     public static void main(String[] args) {
         
-//        Student std1 = new Student();
+//        com.pranav.Student std1 = new com.pranav.Student();
 
         Student std2 = new Student("Pranav", 1160, 9.8f);
 
